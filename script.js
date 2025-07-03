@@ -223,7 +223,7 @@ document.addEventListener("DOMContentLoaded", function () {
   let textInput = document.querySelector(".input-text");
   textInput.addEventListener("keypress", function (event) {
     if (event.key === "Enter") {
-      cliqueiNoBotao(); // Chama a função de clique no botão
+      cliqueiNoBotao(); 
     }
   }
   )
