@@ -56,7 +56,7 @@ const animacoes = {
         100% { transform: translateX(-100px); }
       }
       .animacao {
-        animation: deslizar 1s infinite;
+        animation: deslizar 2s infinite;
       }
 
     .elemento-animado {
