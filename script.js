@@ -171,7 +171,7 @@ function cliqueiNoBotao() {
   let button = document.querySelector(".button-animacao")
   let areaCodigo = document.querySelector(".area-codigo")
   let areaAnimation = document.querySelector(".area-animation")
-  let botaoAnimacao = document.querySelector(".botao-animacao")
+ 
 
   let textoUsuario = textInput.value.trim()
   if (textoUsuario === "") {
