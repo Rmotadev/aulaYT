@@ -137,3 +137,25 @@ h2 {
     font-size: 24px;
 
 }
+
+@media screen and (max-width: 768px) {
+    main {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .css-code, .result-code {
+        width: 90%;
+        height: 400px;
+    }
+
+    input, button {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    h1 {
+        font-size: 8px;
+    }
+    
+}
